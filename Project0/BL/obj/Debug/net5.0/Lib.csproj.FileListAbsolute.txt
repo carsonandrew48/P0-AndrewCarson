@@ -1,0 +1,12 @@
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.csproj.AssemblyReference.cache
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+C:\Dawg\P0-AndrewCarson\Project0\Lib\bin\Debug\net5.0\Lib.deps.json
+C:\Dawg\P0-AndrewCarson\Project0\Lib\bin\Debug\net5.0\Lib.dll
+C:\Dawg\P0-AndrewCarson\Project0\Lib\bin\Debug\net5.0\ref\Lib.dll
+C:\Dawg\P0-AndrewCarson\Project0\Lib\bin\Debug\net5.0\Lib.pdb
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.dll
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\ref\Lib.dll
+C:\Dawg\P0-AndrewCarson\Project0\Lib\obj\Debug\net5.0\Lib.pdb
