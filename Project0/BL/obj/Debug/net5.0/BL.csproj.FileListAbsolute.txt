@@ -1,0 +1,12 @@
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Dawg\P0-AndrewCarson\Project0\BL\bin\Debug\net5.0\BL.deps.json
+C:\Dawg\P0-AndrewCarson\Project0\BL\bin\Debug\net5.0\BL.dll
+C:\Dawg\P0-AndrewCarson\Project0\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Dawg\P0-AndrewCarson\Project0\BL\bin\Debug\net5.0\BL.pdb
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.dll
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Dawg\P0-AndrewCarson\Project0\BL\obj\Debug\net5.0\BL.pdb
